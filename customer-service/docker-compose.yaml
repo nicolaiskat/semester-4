@@ -1,0 +1,30 @@
+services: 
+ taxabooking-handler-svc: 
+     image: nicolaiskat/taxareceive:handler-svc
+     ports:  
+     - "8080:80" 
+     environment: 
+     - TaxaBookingBrokerHost=rabbitmq-dev 
+     depends_on: 
+     - rabbitmq-dev 
+ taxabooking-publisher-svc-1: 
+     image: nicolaiskat/taxareceive:taxa-publisher
+     ports: 
+     - "8081:80" 
+     environment: 
+     - TaxaBookingBrokerHost=rabbitmq-dev 
+     depends_on: 
+     - rabbitmq-dev 
+ taxabooking-publisher-svc-2: 
+     image: nicolaiskat/taxareceive:taxa-publisher
+     ports: 
+     - "8082:80" 
+     environment: 
+     - TaxaBookingBrokerHost=rabbitmq-dev 
+     depends_on: 
+     - rabbitmq-dev 
+ rabbitmq-dev: 
+     image: rabbitmq:management 
+     ports: 
+     - "15672:15672" 
+     - "5672:5672"
