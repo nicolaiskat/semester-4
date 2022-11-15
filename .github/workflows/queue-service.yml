@@ -23,7 +23,7 @@ jobs:
       env:
         DOCKER_USER: ${{ secrets.DOCKER_USER }}
       run: 
-        docker build . --file send/Dockerfile --tag ${DOCKER_USER}/taxareceive:taxa-publisher
+        docker build . --file sendttt/Dockerfile --tag ${DOCKER_USER}/taxareceive:taxa-publisher
     - name: Push Docker image to Docker Hub
       env:
         DOCKER_USER: ${{ secrets.DOCKER_USER }}
