@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uayUJ9C9CKLbEDBsTRH7Y2EgCW+qh4bXlZAFRVqW2PvR7Qk+/Gd+vX06oajL+hQPUcg75POJGdMLOpfB2AFMOQ==",
+  "success": true,
+  "projectFilePath": "/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/BookingHandlerService/BookingHandlerService.csproj",
+  "expectedPackageFiles": [
+    "/Users/nicolaiskat/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

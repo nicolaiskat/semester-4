@@ -1,0 +1,17 @@
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/bin/Debug/net6.0/Send
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/bin/Debug/net6.0/Send.deps.json
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/bin/Debug/net6.0/Send.runtimeconfig.json
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/bin/Debug/net6.0/Send.dll
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/bin/Debug/net6.0/Send.pdb
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.csproj.AssemblyReference.cache
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.AssemblyInfoInputs.cache
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.AssemblyInfo.cs
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.csproj.CoreCompileInputs.cache
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.csproj.CopyComplete
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.dll
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/refint/Send.dll
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.pdb
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/Send.genruntimeconfig.cache
+/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/Send/obj/Debug/net6.0/ref/Send.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZjvE2YYE9wsTyuke5h2F8fqyO/xmZe4xYinowQr2U4XWS2eYb0LJ3x5Hs7lLrx9A9w9gEO7LqOAFtPq+nbQYQ==",
+  "success": true,
+  "projectFilePath": "/Users/nicolaiskat/Projects/IT-Arkitektur-og-Infrastruktur/customer-service/customerAPI/customerAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/nicolaiskat/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/nicolaiskat/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gESTSh7X2TzRlCBBRbHqliZYDpKWcTFrTWEKyNX9x78=",
+  "Source": "customerAPI",
+  "BasePath": "_content/customerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
