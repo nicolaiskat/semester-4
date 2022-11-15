@@ -8,6 +8,7 @@ public class BookingDTO {
         DestinationsAddresse = destinationsAddresse;
         StartTidspunkt = startTidspunkt;
     }
+    
     public Int32? ID { get; set; }
     public DateTime? TidStempel { get; set; }
     public String Navn { get; set; }
