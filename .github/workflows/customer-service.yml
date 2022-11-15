@@ -1,8 +1,10 @@
 name: Customer Service Solution Build
 
 on:
-  pull_request:
+  push:
     branches: [ "main" ]
+    paths:
+      - queue-service/**'
 
 jobs:
 
@@ -24,7 +26,7 @@ jobs:
         docker build . --file send/Dockerfile --tag ${DOCKER_USER}/taxareceive:taxa-publisher
     - name: Push Docker image to Docker Hub
       env:
-        DOCKER_USER: ${{ secrets.DOCKER_USER_N }}
+        DOCKER_USER: ${{ secrets.DOCKER_USER }}
       run: docker push ${DOCKER_USER}/taxareceive:taxa-publisher
     - name: Build the Docker image
       run: |
@@ -32,5 +34,5 @@ jobs:
         docker build . --file bookinghandlerservice/Dockerfile --tag ${DOCKER_USER}/taxareceive:handler-svc
     - name: Push Docker image to Docker Hub
       env:
-        DOCKER_USER: ${{ secrets.DOCKER_USER_N }}
+        DOCKER_USER: ${{ secrets.DOCKER_USER }}
       run: docker push ${DOCKER_USER}/taxareceive:handler-svc
